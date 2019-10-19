@@ -1,0 +1,70 @@
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\bin\Debug\netcoreapp2.1\gloyr5gen.deps.json
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\bin\Debug\netcoreapp2.1\gloyr5gen.runtimeconfig.json
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\bin\Debug\netcoreapp2.1\gloyr5gen.runtimeconfig.dev.json
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\bin\Debug\netcoreapp2.1\gloyr5gen.dll
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\bin\Debug\netcoreapp2.1\gloyr5gen.pdb
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.csprojAssemblyReference.cache
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.AssemblyInfo.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.dll
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.pdb
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\bin\Debug\netcoreapp2.1\gloyr5gen.Views.dll
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\bin\Debug\netcoreapp2.1\gloyr5gen.Views.pdb
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.TagHelpers.input.cache
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.TagHelpers.output.cache
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.RazorCoreGenerate.cache
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.Views.pdb
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.csproj.CopyComplete
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Category\Index.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CategoryMenu\Default.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Advertisement\Details.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Advertisement\List.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdvertisementItem.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\FeaturedAdvertisements\Default.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SearchBox.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Advertisement\Search.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\bin\Debug\netcoreapp2.1\gloyr5gen.deps.json
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\bin\Debug\netcoreapp2.1\gloyr5gen.runtimeconfig.json
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\bin\Debug\netcoreapp2.1\gloyr5gen.runtimeconfig.dev.json
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\bin\Debug\netcoreapp2.1\gloyr5gen.dll
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\bin\Debug\netcoreapp2.1\gloyr5gen.pdb
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\bin\Debug\netcoreapp2.1\gloyr5gen.Views.dll
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\bin\Debug\netcoreapp2.1\gloyr5gen.Views.pdb
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.csprojAssemblyReference.cache
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.AssemblyInfo.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.TagHelpers.input.cache
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.TagHelpers.output.cache
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.RazorCoreGenerate.cache
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Advertisement\Details.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Advertisement\List.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Advertisement\Search.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Category\Index.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CategoryMenu\Default.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\FeaturedAdvertisements\Default.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdvertisementItem.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SearchBox.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.Views.pdb
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.dll
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.pdb
+C:\Users\User\Desktop\gloyr5gen - Kopya\gloyr5gen\obj\Debug\netcoreapp2.1\gloyr5gen.csproj.CopyComplete

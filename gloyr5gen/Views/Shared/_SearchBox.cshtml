@@ -1,0 +1,21 @@
+﻿<form asp-controller="Advertisement" asp-action="Search" method="get" class="search-jobs-form">
+    <div class="row mb-5">
+        <div class="col-12 col-sm-6 col-md-6 col-lg-3 mb-4 mb-lg-0">
+            <input id="q" name="q" type="text" class="form-control form-control-lg" placeholder="Firma Adı, Sektör...">
+        </div>
+        <div class="col-12 col-sm-6 col-md-6 col-lg-3 mb-4 mb-lg-0">
+            <input id="e" name="e" type="text" class="form-control form-control-lg" placeholder="İl, İlçe Adres...">
+        </div>
+        <div class="col-12 col-sm-6 col-md-6 col-lg-3 mb-4 mb-lg-0">
+            <select id="c" name="c" class="form-control">
+                <option>Seçiniz</option>
+                <option>Tam Zamanlı</option>
+                <option>Yarı Zamanlı</option>
+                <option>Serbest Zamanlı</option>
+            </select>
+        </div>
+            <div class="col-12 col-sm-6 col-md-6 col-lg-3 mb-4 mb-lg-0">
+                <button type="submit" class="btn btn-primary btn-lg btn-block text-white btn-search"><span class="icon-search icon mr-2"></span>Arama Yap</button>
+            </div>
+        </div>
+</form>

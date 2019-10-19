@@ -1,0 +1,14 @@
+﻿@model IEnumerable<CategoryModel>
+
+@foreach (var item in Model.Take(6))
+{
+
+<div class="col-6 col-md-6 col-lg-4 mb-4 mb-lg-5">
+    <a asp-controller="Advertisement" asp-action="List" asp-route-category="@item.CategoryName" class="block__16443 text-center d-block">
+        <span class="custom-icon mx-auto"><span class="icon-@item.Image d-block"></span></span>
+        <h3><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@item.CategoryName</font></font></h3>
+        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@item.Count ilan</font></font></p>
+    </a>
+</div> 
+}
+

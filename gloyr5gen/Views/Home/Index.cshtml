@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Advertisement>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- HOME -->
+<section class="home-section section-hero overlay bg-image" style="background-image: url('/images/hero_11.jpg');" id="home-section">
+
+    <div class="container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-md-12">
+                <div class="mb-5 text-center">
+                    <h1 class="text-white font-weight-bold">Hemen İş Bul</h1>
+                    <p>Hayalindeki İşe Bir Tık Uzaktasın. Ücretsiz İş Bulma Platformu.</p>
+                </div>
+               @Html.Partial("_SearchBox")
+            </div>
+        </div>
+    </div>
+
+
+</section>
+
+<section class="py-5 bg-image overlay-primary fixed overlay" style="background-image: url('/images/hero_11.jpg');">
+    <div class="container">
+        <div class="row mb-5 justify-content-center">
+            <div class="col-md-7 text-center">
+                <h2 class="section-title mb-2 text-white">Öne Çıkan Şirketler</h2>
+                <p class="lead text-white">Blue Paket</p>
+            </div>
+        </div>
+        <div style="background-color:white; padding:16px; -webkit-border-radius: 5px;">
+            @await Component.InvokeAsync("FeaturedAdvertisements")
+
+        </div><br />
+    </div>
+</section>
+
+<section class="site-section">
+    <div class="container">
+
+        <div class="row mb-5 justify-content-center">
+            <div class="col-md-7 text-center">
+                <h2 class="section-title mb-2">Öne Çıkan @Model.Count() Adet İlan Bulundu.</h2>
+                <p class="lead text-black">White Paket</p>
+            </div>
+        </div>
+
+        <div class="mb-5">
+            @foreach (var advertisement in Model)
+            {
+                @Html.Partial("_AdvertisementItem", advertisement)
+            }
+        </div>
+        <div class="row mb-5 justify-content-center">
+            <a asp-controller="Advertisement" asp-action="List" style="text-decoration:none;"><button type="submit" class="btn btn-primary btn-lg btn-block text-white btn-search" style="width:250px;">Daha Fazlası</button></a>
+        </div>
+    </div>
+</section>
+
+<section class="site-section services-section bg-light block__62849" id="next-section">
+    <div class="col-md-12">
+        <div class="mb-5 text-center">
+            <h2 class="text-black font-weight-bold"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Popüler Meslekler</font></font></h2>
+            <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">En Çok Arananlar...</font></font></p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+
+            @await Component.InvokeAsync("CategoryMenu")
+
+        </div>
+    </div>
+</section>
